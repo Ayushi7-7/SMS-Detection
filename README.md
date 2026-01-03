@@ -1,2 +1,3 @@
 # SMS-Detection using Machine learning
-#Dataset fro kaggale
+#Dataset from kaggale UCI Machine learning
+#Trained the data  on machine learning model
